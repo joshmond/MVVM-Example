@@ -1,0 +1,9 @@
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.DAL.pdb
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.csprojAssemblyReference.cache
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.csproj.CopyComplete
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.pdb
+C:\Users\Joshmond\Desktop\practical-mvvm\2-practical-mvvm-m2-exercise-files\Demo 1\Start\JoeCoffeeStore.StockManagement.App\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.csproj.CoreCompileInputs.cache
